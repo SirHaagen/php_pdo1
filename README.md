@@ -10,6 +10,6 @@ CREATE TABLE `posts` (
   `author` varchar(255) NOT NULL,
   `is_published` tinyint(1) NOT NULL DEFAULT 1,
   `created_at` datetime NOT NULL DEFAULT current_timestamp()
-)
+);
 
 I am an active student learning CSS, JS, React JS, Sass, Tailwind CSS, PHP and many other stuffs. Looking for a challenging job opportunity
